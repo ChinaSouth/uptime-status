@@ -24,7 +24,8 @@ function App() {
         </div>
         <div id='footer'>
           <p>由 <Link to='https://uptimerobot.com/' text='UptimeRobot' /> 提供支持</p>
-          <p>&copy; 2020 <Link to='https://status.org.cn/' text='STATUS.ORG.CN' />, Version {Package.version}</p>
+          <p>Copyright&copy; 2012-2022 <Link to='https://lfrail.cn/' text='领枫数据' />, All Rights Reserved<a
+            href="https://beian.miit.gov.cn/" title="工信部备案系统" target="_blank">蒙ICP备18002966号</a></p>
         </div>
       </div>
     </>
